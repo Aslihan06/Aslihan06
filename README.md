@@ -6,7 +6,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a height="15" href="https://www.linkedin.com/in/aslihan-esen-1218921ba" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
+  <code><a height="55" href="https://www.linkedin.com/in/aslihan-esen-1218921ba" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/aslihanesn6" title="HackerRank Profile"><img width="22" src="img/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/aslihan_esen6" title="Twitter Profile"><img width="22" src="img/Twitter-logo.svg.png"> Twitter</a></code>
 </h5>
