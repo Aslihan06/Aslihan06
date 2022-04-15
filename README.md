@@ -11,4 +11,20 @@
   <code><a href="https://www.hackerrank.com/aslihanesn6" title="HackerRank Profile"><img width="22" src="img/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/aslihan_esen6" title="Twitter Profile"><img width="22" src="img/Twitter-logo.svg.png"> Twitter</a></code>
 </h5>
-
+<br>
+<p align="center">
+  Hi,I'm Aslıhan ESEN,Fullstack Developer from Turkey
+  <br>
+  <br>
+  🔬 I am currently training for Fullstack Developer at Clarusway
+  <br>
+  🎓 I graduated from Atatürk University Computer Programmer and Adnan Menderes University sociology graduate.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I'm currently learning JAVASCRİPT,HTML,CSS.
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Aslihan06/Aslihan06/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="aslyqc14@gmail.com">aslyqc14@gmail.com</a>
+</p>
