@@ -34,15 +34,15 @@
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="img/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Django" height="25" src="img/django.png"></code>
+  <code><img title="Javascript" height="25" src="img/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="img/html5.svg"></code>
+  <code><img title="CSS" height="25" src="img/css.svg"></code>
+  <code><img title="SASS" height="25" src="img/sass.svg"></code>
+  <code><img title="React" height="25" src="img/react-original.svg"></code>
+  <code><img title="Git" height="25" src="img/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="img/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="img/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="img/github.svg"></code>
 </p>
 <hr>
